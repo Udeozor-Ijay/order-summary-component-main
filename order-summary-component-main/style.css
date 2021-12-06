@@ -1,0 +1,78 @@
+html {
+    background-image:url('images/pattern-background-desktop.svg');
+}
+body{
+    height: 80%;
+    background-color: rgb(255, 254, 254);
+    border: 2px solid #e1ebe8;
+    border-bottom: 10px solid #9cbbb4;
+    border-radius: 2em;
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+#music{
+    margin-top: 200px;
+    border: 30px;
+    
+}
+
+.attribution { font-size: 11px;
+     text-align: center;
+     }
+.attribution a { color: hsl(228, 46%, 43%); }
+
+#box1{
+    text-align: center; 
+     background-image: none;}
+
+#box2{
+   
+}
+
+#head{
+width: 100%;
+border-radius: 2em;
+}
+
+#art{
+    height:20%;
+    margin: 30px;
+    padding: 0px;
+}
+
+article{text-align: center;
+    color: rgb(125, 125, 148);
+}
+
+h1{text-align: center;
+    color: rgb(3, 3, 78);}
+
+#plan{text-align: center;
+     color: rgb(3, 3, 78);}
+
+.center{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
+
+#icon{float:left;
+     margin-right: 10px;}
+
+button{width: 200px;
+     background-color: rgb(200, 79, 224);
+     text-align: center;
+       display: inline-block; 
+       padding: 15px 32px;
+        border-radius: 12px; 
+        width: 250px;}
+
+button:hover{background-color: azure;}
+
+#art {
+grid-gap: 3em;
+justify-items: start;
+background-color: white;
+padding: o.5em;
+}
